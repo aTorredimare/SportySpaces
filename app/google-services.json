@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707731770473",
+    "project_id": "lab5-7222b",
+    "storage_bucket": "lab5-7222b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707731770473:android:d4b8cc618bfb73967066f8",
+        "android_client_info": {
+          "package_name": "it.polito.mad.lab5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707731770473-4iafre6gvti2o8rq4a9d57uevesa0jfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlYK9oKIEW4qxB0wBnikmcRGSa1BBjlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707731770473-4iafre6gvti2o8rq4a9d57uevesa0jfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
